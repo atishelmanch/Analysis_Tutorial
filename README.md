@@ -8,5 +8,5 @@ Open a root file:
 
 ```
 voms-proxy-init --voms cms --valid 168:00; # set voms proxy to be able to access CMS data
-OpenRootFile.py
+python OpenRootFile.py
 ``` 
